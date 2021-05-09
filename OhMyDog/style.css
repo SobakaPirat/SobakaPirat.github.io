@@ -1317,7 +1317,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.svgz);
+    background-image: url(base_omd.png);
 }
 
 .ds4.white.disconnected {
@@ -1349,7 +1349,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .face {
-    background-image: url(ps4-white-assets/dpad.svgz);
+    background-image: url(dpad.png);
 }
 
 /*END PS4 White Controller Styling*/
