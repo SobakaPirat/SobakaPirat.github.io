@@ -1321,23 +1321,23 @@ background-position: 0 -70px;
 }
 
 .ds4.white.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(disconnected.svgz);
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/triggers.svgz);
+    background-image: url(triggers.svgz);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/bumper.svgz);
+    background-image: url(bumper.svgz);
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(ps4-white-assets/touchpad.svgz);
+    background-image: url(touchpad.svgz);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/start.svgz);
+    background-image: url(start.svgz);
 }
 
 .ds4.white .button {
